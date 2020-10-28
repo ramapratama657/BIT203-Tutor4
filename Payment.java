@@ -10,7 +10,7 @@
  */
 public class Payment {
     //Declaration
-    private double amount;
+    public double amount;
     
     public Payment(){
         this.amount=0.0;
